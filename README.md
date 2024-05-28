@@ -127,8 +127,12 @@ In conclusion, while IDSs like Snort are indispensable tools for identifying and
 
 ## **References**
 
-•	Roesch, M. (1999). Snort - Lightweight Intrusion Detection for Networks. In Proceedings of the 13th USENIX Conference on System Administration (LISA '99).
+• Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000). [1]
 
-•	SANS Institute. (2020). Intrusion Detection FAQ: False Positives and False Negatives in Intrusion Detection Systems.
+• Northcutt, Stephen, and Judy Novak. "Network Intrusion Detection: An Analyst's Handbook." Technical Report. SANS Institute. (2001). [2]
 
-•	MITRE. (2021). Common Vulnerabilities and Exposures (CVE).
+• Bejtlich, Richard. "The Practice of Network Security Monitoring: Understanding Incident Detection and Response." Technical Report. No Starch Press. (2013). [3]
+
+• Kennedy, David, Jim O'Gorman, Devon Kearns, Mati Aharoni. "Metasploit: The Penetration Tester's Guide." Technical Report. No Starch Press. (2011). [4]
+
+• Stuttard, Dafydd, and Marcus Pinto. "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws." Technical Report. Wiley. (2011). [5]
