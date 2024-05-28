@@ -127,12 +127,12 @@ In conclusion, while IDSs like Snort are indispensable tools for identifying and
 
 ## **References**
 
-• Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000). [1]
+• [1] Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000).
 
-• Northcutt, Stephen, and Judy Novak. "Network Intrusion Detection: An Analyst's Handbook." Technical Report. SANS Institute. (2001). [2]
+• [2] Northcutt, Stephen, and Judy Novak. "Network Intrusion Detection: An Analyst's Handbook." Technical Report. SANS Institute. (2001).
 
-• Bejtlich, Richard. "The Practice of Network Security Monitoring: Understanding Incident Detection and Response." Technical Report. No Starch Press. (2013). [3]
+• [3] Bejtlich, Richard. "The Practice of Network Security Monitoring: Understanding Incident Detection and Response." Technical Report. No Starch Press. (2013).
 
-• Kennedy, David, Jim O'Gorman, Devon Kearns, Mati Aharoni. "Metasploit: The Penetration Tester's Guide." Technical Report. No Starch Press. (2011). [4]
+• [4] Kennedy, David, Jim O'Gorman, Devon Kearns, Mati Aharoni. "Metasploit: The Penetration Tester's Guide." Technical Report. No Starch Press. (2011).
 
-• Stuttard, Dafydd, and Marcus Pinto. "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws." Technical Report. Wiley. (2011). [5]
+• [5] Stuttard, Dafydd, and Marcus Pinto. "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws." Technical Report. Wiley. (2011).
