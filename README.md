@@ -47,9 +47,9 @@ This report documents the process of setting up and testing an operating system 
 
 ## **IDENTIFIED ATTACK 2: DCOM Exploit**
 
-**Description: The DCOM vulnerability (MS03-026) allows remote code execution via RPC.**
+**Description:** The DCOM vulnerability (MS03-026) allows remote code execution via RPC.
 
-**Component Attacked: DCOM interface.**
+**Component Attacked:** DCOM interface.
 
 **Attack Execution in Metasploit:**
 
@@ -64,9 +64,9 @@ This report documents the process of setting up and testing an operating system 
 
 ## **IDENTIFIED ATTACK 3: VSFTPD v2.3.4 Backdoor Command Execution**
 
-**Description: A backdoor was introduced in VSFTPD v2.3.4, which can be exploited to gain a shell.**
+**Description:** A backdoor was introduced in VSFTPD v2.3.4, which can be exploited to gain a shell.
 
-**Component Attacked: VSFTPD (Very Secure FTP Daemon).**
+**Component Attacked:** VSFTPD (Very Secure FTP Daemon).
 
 **Attack Execution in Metasploit:**
 1.	**Use the exploit:** use exploit/unix/ftp/vsftpd_234_backdoor
@@ -80,9 +80,9 @@ This report documents the process of setting up and testing an operating system 
 
 ## **MISSED ATTACK 1: Apache Struts2 REST Plugin XStream RCE (CVE-2017-9805)**
 
-**Description: An Apache Struts2 vulnerability allows remote code execution via crafted XML requests.**
+**Description:** An Apache Struts2 vulnerability allows remote code execution via crafted XML requests.
 
-**Component Attacked: Apache Struts2 REST Plugin.**
+**Component Attacked:** Apache Struts2 REST Plugin.
 
 **Attack Execution in Metasploit:**
 1.	**Use the exploit:** use exploit/multi/http/struts2_rest_xstream.
@@ -93,9 +93,9 @@ This report documents the process of setting up and testing an operating system 
 
 ## **MISSED ATTACK 2: Shellshock (CVE-2014-6271)**
 
-**Description: A vulnerability in Bash allows remote code execution by exploiting environment variables.**
+**Description:** A vulnerability in Bash allows remote code execution by exploiting environment variables.
 
-**Component Attacked: Bash shell.**
+**Component Attacked:** Bash shell.
 
 **Attack Execution in Metasploit:**
 1.	**Use the exploit:** use exploit/multi/http/apache_mod_cgi_bash_env_exec.
