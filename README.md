@@ -21,9 +21,9 @@ This report documents the process of setting up and testing an operating system 
  * Follow the instructions to build the VM, ensuring you select the Ubuntu version.
    
 **3.	Install Snort:**
- * Update the package list: sudo apt-get update.
- * Install Snort: sudo apt-get install snort.
- * Configure Snort with default settings, updating the network configuration to monitor the appropriate interface.
+ * **Update the package list:** sudo apt-get update.
+ * **Install Snort:** sudo apt-get install snort.
+ * **Configure Snort with default settings, updating the network configuration to monitor the appropriate interface.**
 
 ## **IDENTIFIED ATTACK 1: MS08-067 NetAPI Vulnerability**
 
