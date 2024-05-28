@@ -38,12 +38,12 @@ This report documents the process of setting up and testing an operating system 
 3.	**Set the target:** set RHOST 192.168.1.101.
 4.	**Run the exploit:** exploit.
 
-**Snort Output: in CSS**
-
-[**] [1:2000023:1] EXPLOIT Microsoft Windows MS08-067 [**]
+**Snort Output:**
+```
+[1:2000023:1] EXPLOIT Microsoft Windows MS08-067
 [Classification: Attempted Administrator Privilege Gain] [Priority: 1] 
 04/20-14:22:19.123456 192.168.1.100:445 -> 192.168.1.101:445
-
+```
 
 ## **IDENTIFIED ATTACK 2: DCOM Exploit**
 
@@ -58,9 +58,11 @@ This report documents the process of setting up and testing an operating system 
 3.	**Execute the exploit:** exploit.
    
 **Snort Output:**
-[**] [1:2000032:1] EXPLOIT DCOM MS03-026 [**]
+```
+[1:2000032:1] EXPLOIT DCOM MS03-026
 [Classification: Attempted Administrator Privilege Gain] [Priority: 1]
 04/20-14:35:47.789123 192.168.1.100:135 -> 192.168.1.101:135
+```
 
 ## **IDENTIFIED ATTACK 3: VSFTPD v2.3.4 Backdoor Command Execution**
 
@@ -74,9 +76,11 @@ This report documents the process of setting up and testing an operating system 
 3.	**Execute the exploit:** exploit
 
 **Snort Output:**
-[**] [1:2000056:1] EXPLOIT VSFTPD v2.3.4 Backdoor [**]
+```
+[1:2000056:1] EXPLOIT VSFTPD v2.3.4 Backdoor
 [Classification: Attempted Administrator Privilege Gain] [Priority: 1]
 04/20-14:42:32.456789 192.168.1.100:21 -> 192.168.1.101:21
+```
 
 ## **MISSED ATTACK 1: Apache Struts2 REST Plugin XStream RCE (CVE-2017-9805)**
 
