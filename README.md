@@ -127,7 +127,7 @@ In conclusion, while IDSs like Snort are indispensable tools for identifying and
 
 ## **References**
 
-• [1] Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000).
+• [1] Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000). pp.
 
 • [2] Northcutt, Stephen, and Judy Novak. "Network Intrusion Detection: An Analyst's Handbook." Technical Report. SANS Institute. (2001).
 
