@@ -13,7 +13,7 @@ This report documents the process of setting up and testing an operating system 
 
 ## **Environment Setup**
 
-**1.	Install VirtualBox: Download and install VirtualBox from the official website.**
+**1.	Install VirtualBox:** Download and install VirtualBox from the official website.
 
 **2.	Set up Metasploitable 3:**
 
@@ -106,13 +106,13 @@ This report documents the process of setting up and testing an operating system 
 
 ## **ESSAY: The Benefits and Shortcomings of Using Intrusion Detection Systems**
 
-**Benefits of Intrusion Detection Systems**
+**Benefits of Intrusion Detection Systems:**
 
 Intrusion Detection Systems (IDS) such as Snort offer critical advantages in maintaining network security. They provide real-time monitoring, enabling administrators to respond swiftly to potential threats. This immediate alert system is crucial in mitigating damage and preventing data breaches. IDSs enhance visibility into network traffic, allowing for the detection of unusual patterns that may indicate malicious activity.
 IDSs are effective at identifying known attack signatures. This capability is essential for defending against well-documented threats, ensuring that even if an exploit is recognized, it can be quickly flagged and addressed. Additionally, IDSs generate detailed logs of detected activities, which are invaluable for forensic analysis and understanding the nature and origin of attacks.
 Integration with other security tools, such as firewalls and SIEM (Security Information and Event Management) systems, is another significant benefit. This integration creates a more robust security infrastructure, providing a coordinated defense mechanism that enhances the overall security posture of an organization.
 
-**Shortcomings of Intrusion Detection Systems**
+**Shortcomings of Intrusion Detection Systems:**
 
 Despite their benefits, IDSs have several limitations. One of the most significant issues is the high rate of false positives. IDSs often generate numerous alerts for benign activities that mimic malicious behavior. This can lead to alert fatigue, where security personnel become desensitized to alerts and may overlook genuine threats.
 Another critical shortcoming is the difficulty in detecting zero-day vulnerabilities. IDSs primarily rely on known signatures and behavior patterns, making them less effective against new, sophisticated attacks that do not match existing profiles. This gap in detection capabilities highlights the need for continuous updates and enhancements to IDS rulesets.
