@@ -1,5 +1,6 @@
 # **Cyber Security Base - Course Series**
-University of Helsinki, FI
+
+**University of Helsinki, FI**
 
 **[Course page](https://cybersecuritybase.mooc.fi/)**
 
