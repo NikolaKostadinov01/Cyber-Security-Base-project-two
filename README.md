@@ -117,7 +117,7 @@
 
 ## **References**
 
-• [1] [Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000);](https://archive.org/details/intrusiondetecti00rebe/mode/2up)
+• <p align="justify">[1] [Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000);](https://archive.org/details/intrusiondetecti00rebe/mode/2up)</p>
 
 • [2] [Northcutt, Stephen, and Judy Novak. "Network Intrusion Detection: An Analyst's Handbook." Technical Report. SANS Institute. (2001);](https://archive.org/details/networkintrusio000nort)
 
