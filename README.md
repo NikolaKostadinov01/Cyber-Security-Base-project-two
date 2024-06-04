@@ -113,18 +113,17 @@
 IDSs are effective at identifying known attack signatures. This capability is essential for defending against well-documented threats, ensuring that even if an exploit is recognized, it can be quickly flagged and addressed. Additionally, IDSs generate detailed logs of detected activities, which are invaluable for forensic analysis and understanding the nature and origin of attacks.
 Integration with other security tools, such as firewalls and SIEM (Security Information and Event Management) systems, is another significant benefit. This integration creates a more robust security infrastructure, providing a coordinated defense mechanism that enhances the overall security posture of an organization. </div>
 
-
 **Shortcomings of Intrusion Detection Systems:**
 
-<div align="justify"> Despite their benefits, IDSs have several limitations. One of the most significant issues is the high rate of false positives. IDSs often generate numerous alerts for benign activities that mimic malicious behavior. This can lead to alert fatigue, where security personnel become desensitized to alerts and may overlook genuine threats.
+Despite their benefits, IDSs have several limitations. One of the most significant issues is the high rate of false positives. IDSs often generate numerous alerts for benign activities that mimic malicious behavior. This can lead to alert fatigue, where security personnel become desensitized to alerts and may overlook genuine threats.
 Another critical shortcoming is the difficulty in detecting zero-day vulnerabilities. IDSs primarily rely on known signatures and behavior patterns, making them less effective against new, sophisticated attacks that do not match existing profiles. This gap in detection capabilities highlights the need for continuous updates and enhancements to IDS rulesets.
 Performance overhead is another concern. Continuous monitoring and analysis of network traffic can consume significant system resources, potentially affecting network performance and user experience. Balancing the need for security with operational efficiency is a challenging task.
 Furthermore, IDSs are inherently reactive rather than proactive. They alert administrators after an attack has been detected, which means some level of damage may have already occurred. This reactive nature necessitates the integration of IDSs with other preventive security measures, such as firewalls, anti-virus software, and regular security audits, to provide a more comprehensive defense strategy.
 In conclusion, while IDSs like Snort are indispensable tools for identifying and mitigating security threats, they must be part of a multi-layered security approach to address their inherent limitations and provide effective protection for networks and systems. </div>
 
 ## **References**
-
-• <div align="justify"> [1] [Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000);](https://archive.org/details/intrusiondetecti00rebe/mode/2up)
+<div align="justify">
+• [1] [Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000);](https://archive.org/details/intrusiondetecti00rebe/mode/2up)
 
 • [2] [Northcutt, Stephen, and Judy Novak. "Network Intrusion Detection: An Analyst's Handbook." Technical Report. SANS Institute. (2001);](https://archive.org/details/networkintrusio000nort)
 
