@@ -1,10 +1,8 @@
-# **Cyber Security Base - Course Series**
+# **Project II**
 
-**University of Helsinki, FI**
+**University of Helsinki, FI - Cyber Security Base - Course Series**
 
 **[Course page](https://cybersecuritybase.mooc.fi/)**
-
-## **Project II**
 
 **Project Report**
 
