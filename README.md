@@ -1,3 +1,5 @@
+![](https://www.helsinki.fi/assets/drupal/s3fs-public/styles/16_10_fallback/public/migrated-news/78253-mooc_cyber_security_2017_2400x666_.jpg.jpeg?itok=ebC9_vkL)
+
 # **Project II**
 
 **University of Helsinki, FI - Cyber Security Base - Course Series**
