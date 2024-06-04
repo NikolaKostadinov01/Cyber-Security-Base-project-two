@@ -112,6 +112,8 @@
 IDSs are effective at identifying known attack signatures. This capability is essential for defending against well-documented threats, ensuring that even if an exploit is recognized, it can be quickly flagged and addressed. Additionally, IDSs generate detailed logs of detected activities, which are invaluable for forensic analysis and understanding the nature and origin of attacks.
 Integration with other security tools, such as firewalls and SIEM (Security Information and Event Management) systems, is another significant benefit. This integration creates a more robust security infrastructure, providing a coordinated defense mechanism that enhances the overall security posture of an organization. </div>
 
+
+
 **Shortcomings of Intrusion Detection Systems:**
 <div align="justify"> Despite their benefits, IDSs have several limitations. One of the most significant issues is the high rate of false positives. IDSs often generate numerous alerts for benign activities that mimic malicious behavior. This can lead to alert fatigue, where security personnel become desensitized to alerts and may overlook genuine threats.
 Another critical shortcoming is the difficulty in detecting zero-day vulnerabilities. IDSs primarily rely on known signatures and behavior patterns, making them less effective against new, sophisticated attacks that do not match existing profiles. This gap in detection capabilities highlights the need for continuous updates and enhancements to IDS rulesets.
