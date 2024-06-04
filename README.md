@@ -117,12 +117,12 @@
 
 ## **References**
 
-• <p align="justify">[1] [Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000);](https://archive.org/details/intrusiondetecti00rebe/mode/2up)</p>
+<p align="justify">[1] [Bace, Rebecca Gurley. "Intrusion Detection Systems." Technical Report. Carnegie Mellon University, Software Engineering Institute. (2000);](https://archive.org/details/intrusiondetecti00rebe/mode/2up)</p>
 
-• [2] [Northcutt, Stephen, and Judy Novak. "Network Intrusion Detection: An Analyst's Handbook." Technical Report. SANS Institute. (2001);](https://archive.org/details/networkintrusio000nort)
+<p align="justify">[2] [Northcutt, Stephen, and Judy Novak. "Network Intrusion Detection: An Analyst's Handbook." Technical Report. SANS Institute. (2001);](https://archive.org/details/networkintrusio000nort)</p>
 
-• [3] [Bejtlich, Richard. "The Practice of Network Security Monitoring: Understanding Incident Detection and Response." Technical Report. No Starch Press. (2013);](https://archive.org/details/practiceofnetwor0000bejt)
+<p align="justify">[3] [Bejtlich, Richard. "The Practice of Network Security Monitoring: Understanding Incident Detection and Response." Technical Report. No Starch Press. (2013);](https://archive.org/details/practiceofnetwor0000bejt)</p>
 
-• [4] [Kennedy, David, Jim O'Gorman, Devon Kearns, Mati Aharoni. "Metasploit: The Penetration Tester's Guide." Technical Report. No Starch Press. (2011);](https://www.kea.nu/files/textbooks/humblesec/metasploit_apenetrationtestersguide.pdf)
+<p align="justify">[4] [Kennedy, David, Jim O'Gorman, Devon Kearns, Mati Aharoni. "Metasploit: The Penetration Tester's Guide." Technical Report. No Starch Press. (2011);](https://www.kea.nu/files/textbooks/humblesec/metasploit_apenetrationtestersguide.pdf)</p>
 
-• [5] [Stuttard, Dafydd, and Marcus Pinto. "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws." Technical Report. Wiley. (2011).](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker's%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf)
+<p align="justify">[5] [Stuttard, Dafydd, and Marcus Pinto. "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws." Technical Report. Wiley. (2011).](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker's%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf)</p>
