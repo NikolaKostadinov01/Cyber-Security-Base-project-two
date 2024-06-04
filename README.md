@@ -4,8 +4,6 @@
 
 **[Course page](https://cybersecuritybase.mooc.fi/)**
 
-**Project Report**
-
 ## **Introduction**
 
 This report documents the process of setting up and testing an operating system with vulnerabilities using Metasploitable 3 on Ubuntu. A virtual machine (VM) was created using VirtualBox to simulate a real-world environment. Snort, an open-source intrusion detection system (IDS), was installed to monitor network traffic and detect attacks. Various attacks were executed using Metasploit, and their detection was evaluated through Snort alerts. The report includes detailed descriptions of five specific attacks: three detected by Snort and two that went undetected, along with an essay on the benefits and shortcomings of IDS.
