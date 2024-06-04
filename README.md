@@ -20,7 +20,7 @@
 **3.	Install Snort:**
  * **Update the package list:** sudo apt-get update.
  * **Install Snort:** sudo apt-get install snort.
- * **Configure Snort with default settings, updating the network configuration to monitor the appropriate interface.**
+ *  <div align="justify"> **Configure Snort with default settings, updating the network configuration to monitor the appropriate interface.** </div>
 
 ## **IDENTIFIED ATTACK 1: MS08-067 NetAPI Vulnerability**
 
